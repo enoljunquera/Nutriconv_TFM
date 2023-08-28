@@ -1,0 +1,20 @@
+Batchsize;32
+Free line
+Free line
+learning_rate;0.000005
+epochs;3000
+Image_size;256
+early_stopping;5
+Numero clases;35
+Image folder;./Pancake\images
+Mask folder;./Pancake\masks
+Modo_debug;0
+Model_path_and_name;Modelos/Finales/REGRESIONB32F32LR5-6DO0.h5
+Dropout;0.0
+Batch_normalization;1
+Kernel_L2_Regularization;0.0
+Free line
+Free line
+num_filters;32
+test_diferente_carpeta;0
+alpha;0.4
